@@ -70,6 +70,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+#NetflixGPT
+
+-Create React app
+-Configured TailwindCSS
+-Header
+-Routing of App
+-Login Form
+-Signup Form
+-Form validation
+-useRef Hook
+-Firebase Setup
+-Create signup user account
+-implement sign in user api
+-created Redux store with userSlice
+
+
 #Features
 - Login/Signup
     -Sign in/ sign up form
