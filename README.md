@@ -84,7 +84,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -Create signup user account
 -implement sign in user api
 -created Redux store with userSlice
-
+-Update profile
+-fetch from TMDB movies
+-Register TMDB API and get access token
+-GET data from TMDB now playing movies api
+-Custom hook for Now playing movies
+-Fetch data for trailer video
+-Update store with Trailer video data
+-Embedded Youtube video and make it autoplay
 
 #Features
 - Login/Signup
