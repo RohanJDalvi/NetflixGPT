@@ -92,6 +92,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -Fetch data for trailer video
 -Update store with Trailer video data
 -Embedded Youtube video and make it autoplay
+-Build Movie List, Movie Card
+-TMDB image CDN URL
+-Multi Lang Feature in our App
+-Integrate GPT API's
+-Get Open AI Api key
+-GPT Search API call
 
 #Features
 - Login/Signup
